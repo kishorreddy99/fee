@@ -1,4 +1,3 @@
-package com.freshworks;
 
 import java.io.*;
 import java.nio.file.DirectoryNotEmptyException;
