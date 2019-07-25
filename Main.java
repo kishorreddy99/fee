@@ -123,6 +123,8 @@ public class Main{
                     key = scan.next();
                     ds.delete(path, key);
                     break;
+                case 4:
+                    break;
                 default:
                     System.out.print("Incorrect Option");
                     break;
